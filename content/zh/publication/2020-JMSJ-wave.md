@@ -1,7 +1,7 @@
 ---
 date: 2020-03-01
 title: "How Do the Monsoon Trough and the Tropical Upper-Tropospheric Trough Affect Synoptic-Scale Waves: A Comparative Study"
-authors: "Feng T"
+authors: ["Feng T.","X.-Q. Yang","R. Huang","L. Wu","D. Yang"]
 tags: ["季风槽"]
 featured: false
 # View.
