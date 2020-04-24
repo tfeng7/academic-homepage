@@ -18,5 +18,5 @@ header:
   caption: "季风槽"
   image: "2020-JC-1.png"
 ---
-![monsoon trough](2020-JC-1.png)
+![monsoon trough](/img/2020-JC-1.png)
 **Feng T.**\*, X.-Q. Yang, X. Sun, D. Yang, C. Chu, 2020. Reexamination of the climatology and variability of the monsoon trough over the western North Pacific using a daily trough index.  *Journal of Climate*, https://doi.org/10.1175/JCLI-D-19-0459.1.
