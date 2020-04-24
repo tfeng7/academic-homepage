@@ -4,7 +4,7 @@ title: Reexamination of the climatology and variability of the monsoon trough ov
 authors: ["Feng T.","X.-Q. Yang","X. Sun","D. Yang","C. Chu"]
 tags: ["季风槽"]
 featured: true
-publication_types: 2
+#publication_types: 2
 publication: “*Journal of Climate*”
 # View.
 #   1 = List
