@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Nelson Bighetti
+title: 冯涛
 
 # Username (this should match the folder name)
 authors:
@@ -10,32 +10,32 @@ authors:
 superuser: true
 
 # Role/position
-role: Professor of Artificial Intelligence
+role: 气象学 博士
 
 # Organizations/Affiliations
 organizations:
-- name: Stanford University
-  url: ""
+- name: 河海大学海洋学院
+  url: "hyxy.hhu.edu.cn"
 
 # Short bio (displayed in user profile at end of posts)
 bio: My research interests include distributed robotics, mobile computing and programmable matter.
 
 interests:
-- Artificial Intelligence
-- Computational Linguistics
-- Information Retrieval
+- 对流耦合波动
+- 台风多尺度变率
+- 热带对流
 
 education:
   courses:
-  - course: PhD in Artificial Intelligence
-    institution: Stanford University
-    year: 2012
-  - course: MEng in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2009
-  - course: BSc in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2008
+  - course: 博士 气象学
+    institution: 南京信息工程大学 （中科院大气物理研究所）
+    year: 2013
+  - course: 硕士 气象学
+    institution: 南京信息工程大学 （中国气象科学研究院）
+    year: 2010
+  - course: 学士 物理学
+    institution: 南京信息工程大学
+    year: 2007
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
@@ -44,16 +44,16 @@ education:
 social:
 - icon: envelope
   icon_pack: fas
-  link: '#contact'  # For a direct email link, use "mailto:test@example.org".
-- icon: twitter
-  icon_pack: fab
-  link: https://twitter.com/GeorgeCushen
+  link: 'mailto:fengtao@hhu.edu.cn'  # For a direct email link, use "mailto:test@example.org".
+- icon: researchgate
+   icon_pack: fab
+   link: https://www.researchgate.net/profile/Tao_Feng52
 - icon: google-scholar
   icon_pack: ai
-  link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
+  link: https://scholar.google.com/citations?user=YGu2jzEAAAAJ
 - icon: github
   icon_pack: fab
-  link: https://github.com/gcushen
+  link: https://github.com/tfeng7
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
 # - icon: cv
@@ -70,6 +70,4 @@ user_groups:
 - Visitors
 ---
 
-Nelson Bighetti is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
+我是冯涛，气象学博士，目前在河海大学海洋学院工作。热带海洋上空的大气运动是个很有重要的研究课题，尽管学界对热带大气运动规律的系统性研究已经超过60年，但是我们对其中的很多基本问题仍然弄不清楚。从天气尺度到年际尺度，热带大气环流运动的形式主要受赤道波动所影响，而赤道波动的运动与深对流活动息息相关。因此，我的研究兴趣集中在赤道对流耦合波动和热带对流活动。而台风是热带甚至地球上最强烈的天气系统，是另一个重要的研究课题，我主要关心台风生成和移动的统计学特征与影响机理。
