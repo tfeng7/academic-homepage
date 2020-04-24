@@ -67,8 +67,6 @@ subtitle = ""
  css_class = ""
 +++
 
-{{% alert note %}}
+<!-- {{% alert note %}}
 Quickly discover relevant content by [filtering publications]({{< ref "/publication/_index.md" >}}).
-{{% /alert %}}
-
-测试测试在这边
+{{% /alert %}} -->
