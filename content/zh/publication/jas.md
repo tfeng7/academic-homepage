@@ -11,7 +11,7 @@ view: 4
 
 # Optional header image (relative to `static/img/` folder).
 header:
-  caption: "????"
+  caption: "测试测试"
   image: "1.jpg"
 ---
-# ????????
+# 测试测试
