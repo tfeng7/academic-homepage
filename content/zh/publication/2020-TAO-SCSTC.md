@@ -3,7 +3,7 @@ date: 2020-02-01
 title: "Characteristics of Tropical Cyclone Activity over the South China Sea: Local and Nonlocal Tropical Cyclones."
 authors: Wu, L., H. Zhang, J.-M. Chen, T. Feng
 tags: ["季风槽"]
-featured：false
+featured: false
 # View.
 #   1 = List
 #   2 = Compact
