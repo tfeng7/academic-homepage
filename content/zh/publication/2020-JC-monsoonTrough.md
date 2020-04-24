@@ -1,6 +1,6 @@
 ---
 date: 2020-04-01
-title: Reexamination of the climatology and variability of the monsoon trough over the western North Pacific using a daily trough index
+title: Reexamination of the climatology and variability of the monsoon trough over the western North Pacific using a daily index
 authors: ["Feng T.","X.-Q. Yang","X. Sun","D. Yang","C. Chu"]
 tags: ["季风槽"]
 featured: true
