@@ -9,12 +9,44 @@
 
 # Uncomment the lines below to configure your website in a second language.
 [zh]
-  languageCode = "zhs"
+  languageCode = "zh"
   contentDir = "content/zh"
-#  title = "Chinese website title..."
+  title = "Welcome"
 #  [zh.params]
 #    description = "Site description in Chinese..."
-#  [[zh.menu.main]]
-#    name = "Wo"
-#    url = "#about"
-#    weight = 1
+  [[zh.menu.main]]
+    name = "简介"
+    url = "#about"
+    weight = 1
+  [[zh.menu.main]]
+    name = "研究评述"
+    url = "#posts"
+    weight = 20
+  [[zh.menu.main]]
+    name = "学术论文"
+    url = "#featured"
+    weight = 30
+  #[[zh.menu.main]]
+  #  name = "最新论文"
+  #  url = "#publications"
+  #  weight = 35
+  [[zh.menu.main]]
+    name = "科研项目"
+    url = "#projects"
+    weight = 50
+  [[zh.menu.main]]
+    name = "工作经历"
+    url = "#experience"
+    weight = 52
+  [[zh.menu.main]]
+    name = "研究团队"
+    url = "#people"
+    weight = 55
+  #[[zh.menu.main]]
+  #  name = "完整简历"
+  #  url = "files/cv.md"
+  #  weight = 58
+  [[zh.menu.main]]
+    name = "联系方式"
+    url = "#contact"
+    weight = 601
