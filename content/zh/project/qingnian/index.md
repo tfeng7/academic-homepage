@@ -8,7 +8,7 @@ date: "2018-04-27T00:00:00Z"
 
 # Optional external URL for project (replaces project detail page).
 external_link: ""
-weight: 90 
+weight: 30
 
 image:
   caption: 西北太平洋热带低压型波动对热带气旋生成作用的机理
