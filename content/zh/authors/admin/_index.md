@@ -12,15 +12,13 @@ superuser: true
 # Role/position
 role: 气象学 博士
 
-weight: 1
-
 # Organizations/Affiliations
 organizations:
 - name: 河海大学海洋学院
   url: "hyxy.hhu.edu.cn"
 
 # Short bio (displayed in user profile at end of posts)
-bio: 
+bio: My research interests include distributed robotics, mobile computing and programmable matter.
 
 interests:
 - 对流耦合波动
@@ -68,7 +66,8 @@ email: ""
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-- Team
+- Researchers
+- Visitors
 ---
 
-我是冯涛，气象学博士，目前在河海大学海洋学院工作，主要从事热带大气动力学的研究。从天气尺度到年际尺度，热带大气环流的变化主要受热带波动活动的影响。尽管对热带大气运动规律的系统性研究已经有超过60年的历史，但是我们对其中的很多基本问题仍然弄不清楚，比如有关MJO本质的问题就始终存在争议。对流活动对热带波动的动力学性质起了很重要的调节作用，我的兴趣集中在对这些热带对流耦合波动活动机理进行研究。而台风是每个研究热带的人都为之兴奋的话题，台风的生成与热带波动的活动息息相关，而我主要关心台风生成和移动的统计学特征与变化机理。
+我是冯涛，气象学博士，目前在河海大学海洋学院工作。热带海洋上空的大气运动是个很有重要的研究课题，尽管学界对热带大气运动规律的系统性研究已经超过60年，但是我们对其中的很多基本问题仍然弄不清楚。从天气尺度到年际尺度，热带大气环流运动的形式主要受赤道波动所影响，而赤道波动的运动与深对流活动息息相关。因此，我的研究兴趣集中在赤道对流耦合波动和热带对流活动。而台风是热带甚至地球上最强烈的天气系统，是另一个重要的研究课题，我主要关心台风生成和移动的统计学特征与影响机理。
