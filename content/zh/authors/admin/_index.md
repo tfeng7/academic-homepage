@@ -20,7 +20,7 @@ organizations:
   url: "hyxy.hhu.edu.cn"
 
 # Short bio (displayed in user profile at end of posts)
-bio: 
+bio: 主要从事对流耦合波动、台风多尺度变率与热带对流的研究。
 
 interests:
 - 对流耦合波动
